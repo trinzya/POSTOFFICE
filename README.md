@@ -1,6 +1,6 @@
-# E Posst office
+# E Post office
 
->It is aweb based project for post office. 
+>It is a web based project for post office. 
 >One of the most important benefits of Online Post Office Is people can buy letters, stamps,
 post-cards, greeting cards, packets and cartons sitting at the safety of their homes. It also
 provides services like courier, registering for electricity vendors. Under this website many
@@ -21,3 +21,4 @@ TEAM MEMBERS :
 2. Tushar Verma , 17ESKCS177
 3. Vaibhav Sharma , 17ESKCS183
 4. Vaninder Kaur , 17ESKCS184
+Project Link-http://proshop-sb.herokuapp.com/
